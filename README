@@ -1,0 +1,5 @@
+My friend Bartek asked me to showcase Kotlin for him. This is supposed
+to be a HTTP server.  It's going to be very quickly hacked together.
+Also, since currently I don't have a computer at home, I'm coding on my
+Android TV using Termux.  For now neither JDK nor JRE work on Termux, so
+the code will probably be ridden with bugs.
